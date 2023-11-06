@@ -1,0 +1,22 @@
+gatcggtatactggactaaaaa, DNA molecule : gatcggtatactggactaaaaa
+atcgg tcgga, DNA molecule : atcgga
+tramp vaer atcga, DNA molecule : atcga
+atcgat tvcga cgatt, DNA molecule : atcgatt
+acgb zaaa aacgt, DNA molecule : aacgt
+acgb zaaa atcggtatactg gtatactggact ggtat gactaaaaa, DNA molecule : atcggtatactggactaaaaa
+atcggtatactg gtatactggact ggtat gactaaaaa, DNA molecule : atcggtatactggactaaaaa
+atcggtatactg gtatactggact ggtat gactaaaaa aaattt, DNA molecule : atcggtatactggactaaaaa
+atga tgagggg atgaacggtagcctgagcta, DNA molecule : atgaacggtagcctgagcta
+atga tgagggg atgaacggtagcctgagcta gctah gctaggggg, DNA molecule : atgaacggtagcctgagctaggggg
+aaattt atga, DNA molecule : aaattt
+jonoulis fanclub, Wrong input!
+abfs attvbs uerhnr eunnne atgtattggacc ggacctacg cctacgabdul null cctacgcctaggaaggtt cctac, DNA molecule : atgtattggacctacgcctaggaaggtt
+actag redgr32423 con1, DNA molecule : actag
+atgtattggacc ggacctt error ccttagtggta, DNA molecule : atgtattggaccttagtggta
+arfefe fefefefefefefef arctan sin cos pavlis repania acccccccccc ccccat, DNA molecule : accccccccccat
+1345 notValid 45 attttggggaaaaaggcc ggccav ggccaaaaaat, DNA molecule : attttggggaaaaaggccaaaaaat
+gtgcttagtgctt gtgcttat, DNA molecule : gtgcttagtgcttat
+atga tgagggg atgaacggtagcctgagcta gctah gctaggggg, DNA molecule : atgaacggtagcctgagctaggggg
+apolietai opalios tgtcatagtca napellanei gtcata onearos, DNA molecule : tgtcatagtca
+Isthis thereal life? gtgcttagtgctt Isthis just fantasy? gtgcttat gtgcttaAPOLELEREMOUNIA, DNA molecule : gtgcttagtgcttat
+sasparakalw denthelw allo gtcatggtca kapitsaki ggtcatg plz!!!!, DNA molecule : gtcatggtcatg
