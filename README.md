@@ -1,9 +1,9 @@
 # DNASequencer
 DNA sequencer written in java for a university project with a input-output test added
 
-Compilation command: javac DNASequencer.java
+Compilation command: javac DNASequencer
 
-Execution command: java DNASequencer <Strand1> <Strand2/> ...
+Execution command: java DNASequencer Strand1 Strand2 
 
 This program takes DNA strands as input from the command line arguments (args) and performs the following tasks:
 1. Validate the input DNA strands for correct characters ('c', 't', 'g', 'a').
