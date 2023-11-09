@@ -1,5 +1,6 @@
 # DNASequencer
 DNA sequencer written in java for a university project with a input-output test added
+
 Compilation command: javac DNASequencer.java
 Execution command: java DNASequencer <Strand1> <Strand2/> ...
 
