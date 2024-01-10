@@ -1,12 +1,27 @@
-# DNASequencer
-DNA sequencer written in java for a university project with a input-output test added
+DNA Sequencer in Java
+=====================
 
-Compilation command: javac DNASequencer
+Description
+-----------
 
-Execution command: java DNASequencer Strand1 Strand2 
+The DNA Sequencer is a Java-based tool developed for a university project. It efficiently processes and concatenates DNA strands provided as input. The program ensures validation of DNA characters and merges strands based on common characters.
 
-This program takes DNA strands as input from the command line arguments (args) and performs the following tasks:
-1. Validate the input DNA strands for correct characters ('c', 't', 'g', 'a').
-2. Select the first valid strand as the base strand (A1).
-3. Check for common characters in other input strands and merge them with the base strand at position A1.
-4. Output the concatenated DNA strand.
+Features
+--------
+
+*   Validates input DNA strands for correct nucleotides: 'c', 't', 'g', 'a'.
+*   Identifies and selects the first valid strand as the base.
+*   Merges additional strands with the base at specific positions.
+*   Outputs the concatenated DNA sequence.
+
+How to Compile and Run
+----------------------
+
+*   **Compile:** `javac DNASequencer.java`
+*   **Execute:** `java DNASequencer Strand1 Strand2`
+    *   Replace `Strand1` and `Strand2` with your DNA strands.
+
+Input-Output Test
+-----------------
+
+*   Includes an input-output test for verification of functionality.
